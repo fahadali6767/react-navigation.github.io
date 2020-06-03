@@ -39,4 +39,4 @@ class MyBackButton extends React.Component {
 export default withNavigation(MyBackButton);
 ```
 
-Using this approach, you can render `MyBackButton` anywhere in your app without passing in a `navigation` prop explicitly and it will work as expected.
+Using this approach, you can render `MyBackButton` anywhere in your app without passing in a `navigation` prop explicitly and it will work as expected..
